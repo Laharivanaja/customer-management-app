@@ -142,7 +142,9 @@ GET /addresses/:customerId – Get addresses for customer
 
 PUT /addresses/edit/:id – Update address
 
-Screenshots 
+Screenshots  
+<img width="1149" height="157" alt="image" src="https://github.com/user-attachments/assets/5d461d0a-68c6-4e4a-aa95-cb2a3c22362f" /> 
+<img width="791" height="183" alt="image" src="https://github.com/user-attachments/assets/de5ed8a1-5e28-4d4f-854e-eeebae6019fd" /> 
 
 Customer List Page
 
