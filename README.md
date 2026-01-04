@@ -106,7 +106,7 @@ This structure supports a one-to-many relationship between customers and address
 
 Steps to Run Locally
 1️⃣ Clone the Repository
-git clone <your-github-repo-link>
+git clone <(https://github.com/Laharivanaja/customer-management-app.git)>
 cd Energetic
 
 2️⃣ Run Backend
